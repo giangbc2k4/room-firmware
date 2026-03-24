@@ -1,1 +1,6 @@
-{"version": "1.0.0", "url": "https://raw.githubusercontent.com/YOUR_USERNAME/room-firmware/main/releases/latest/firmware.bin", "mandatory": false, "note": "Initial release"}
+{
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/giangbc2k4/room-firmware/refs/heads/master/releases/latest/firmware.bin",
+  "mandatory": false,
+  "note": "Initial release"
+}
