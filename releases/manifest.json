@@ -1,6 +1,12 @@
 {
-  "active_version": "4.0.0",
+  "active_version": "5.0.0",
   "firmwares": [
+    {
+      "version": "5.0.0",
+      "size": 8192,
+      "uploaded_at": "2026-03-24T04:12:25.578Z",
+      "note": "test3"
+    },
     {
       "version": "4.0.0",
       "size": 3072,
