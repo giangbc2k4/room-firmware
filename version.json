@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "url": "https://raw.githubusercontent.com/giangbc2k4/room-firmware/refs/heads/master/releases/latest/firmware.bin",
   "mandatory": false,
-  "note": "Initial release"
+  "note": "test"
 }
