@@ -1,0 +1,11 @@
+{
+  "active_version": "4.0.0",
+  "firmwares": [
+    {
+      "version": "4.0.0",
+      "size": 3072,
+      "uploaded_at": "2026-03-24T04:11:23.598Z",
+      "note": "test2"
+    }
+  ]
+}
