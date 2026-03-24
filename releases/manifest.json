@@ -1,5 +1,5 @@
 {
-  "active_version": "1.0.2",
+  "active_version": "1.0.1",
   "firmwares": [
     {
       "version": "1.0.2",
@@ -13,7 +13,9 @@
       "size": 1042704,
       "uploaded_at": "2026-03-24T04:40:07.987Z",
       "note": "test 1.0.1",
-      "uploaded_by": "hau999@gmail.com"
+      "uploaded_by": "hau999@gmail.com",
+      "rolled_back_by": "hau999@gmail.com",
+      "rolled_back_at": "2026-03-24T04:45:32.087Z"
     },
     {
       "version": "1.0.0",
