@@ -1,7 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/giangbc2k4/room-firmware/refs/heads/master/releases/latest/firmware.bin",
   "mandatory": false,
-  "note": "test 1.0.2",
-  "uploaded_by": "hau999@gmail.com"
+  "note": "test 1.0.1",
+  "uploaded_by": "hau999@gmail.com",
+  "rolled_back_by": "hau999@gmail.com",
+  "rolled_back_at": "2026-03-24T04:45:32.087Z"
 }
