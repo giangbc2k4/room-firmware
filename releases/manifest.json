@@ -1,6 +1,13 @@
 {
-  "active_version": "1.1.0",
+  "active_version": "1.1.1",
   "firmwares": [
+    {
+      "version": "1.1.1",
+      "size": 1095920,
+      "uploaded_at": "2026-03-26T07:11:43.857Z",
+      "note": "task225",
+      "uploaded_by": "hau999@gmail.com"
+    },
     {
       "version": "1.1.0",
       "size": 1095488,
