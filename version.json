@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "url": "https://raw.githubusercontent.com/giangbc2k4/room-firmware/refs/heads/master/releases/latest/firmware.bin",
   "mandatory": false,
-  "note": "sửa log 2",
+  "note": "them debug online",
   "uploaded_by": "hau999@gmail.com"
 }
