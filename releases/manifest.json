@@ -1,6 +1,13 @@
 {
-  "active_version": "2.0.0",
+  "active_version": "2.0.1",
   "firmwares": [
+    {
+      "version": "2.0.1",
+      "size": 1091520,
+      "uploaded_at": "2026-03-27T01:53:37.463Z",
+      "note": "thử ota function",
+      "uploaded_by": "hau999@gmail.com"
+    },
     {
       "version": "2.0.0",
       "size": 1095920,
